@@ -1,0 +1,2 @@
+# SnakeAndMouseGame
+Demonstrate your understanding of basic elements of UML,Apply some essential OO facilities offered by C++ and demonstrate programming skills required to implement a small OO software system, Relate design documentation in UML with C++ implementation of a small OO software system , Work effectively as a member of a project team on the development and maintenance of a small OO software system
